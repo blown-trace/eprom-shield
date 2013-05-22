@@ -14,5 +14,5 @@ and Mario Keller <mkeller@k-ratworking.de> 2013.
 
 Historical Links
 ----------------
-http://forum.arduino.cc/index.php?topic=163682.0
-http://www.ichbinzustaendig.de/dev/meeprommer
+* http://forum.arduino.cc/index.php?topic=163682.0
+* http://www.ichbinzustaendig.de/dev/meeprommer
